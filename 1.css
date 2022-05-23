@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.home{
+    background-image: url("img/hero-slide2.jpg");
+    background-attachment: fixed;
+    height: 500px;
+    background-size: cover;
+}
+
+body{
+    overflow-x: hidden;  
+}
+
+ul li.nav-item a{
+    color: white;
+    font-weight: bold;
+}
+ul li.nav-item a:hover{
+    color: rgb(159, 174, 174);
+}
+
+
+.myfuture-cart>div>div{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+} 
+
+div.icon > i{
+    padding-right: 5%;
+    font-size: 150%;
+}
+
+div.tacgia{
+    height: 50px;
+    width: 50px;
+    background-size: cover;
+    border-radius: 50px;
+}
+
+.OurServices>div{
+    padding: 0;
+    margin: 0;
+}
+.footer{
+    background-color: #291734;
+}
+.addbg{
+    background-color: white !important;
+}
+.chu{
+    color: black !important;
+}
+.chu:hover{
+    color: rgb(159, 174, 174) !important;
+}
