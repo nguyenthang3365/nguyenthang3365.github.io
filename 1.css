@@ -3,7 +3,7 @@
     padding: 0;
 }
 .home{
-    background-image: url("img/hero-slide2.jpg");
+    background-image: url("hero-slide2.jpg");
     background-attachment: fixed;
     height: 500px;
     background-size: cover;
