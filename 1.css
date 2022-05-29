@@ -4,7 +4,7 @@
     padding: 0;
 }
 .home{
-    background-image: url(hero-slide2.jpg);
+    background-image: url("img/hero-slide2.jpg");
     background-attachment: fixed;
     height: 500px;
     background-size: cover;
@@ -55,8 +55,21 @@ div.tacgia{
 .chu:hover{
     color: rgb(159, 174, 174) !important;
 }
+
 /* hieu ung */
 
 
 
+body {
+  
+}
 
+.tagcloud {
+    font-family: 'Poppins', sans-serif;  
+    font-size: 20px;
+    margin: auto;
+    width: 50%;
+  }
+  .tagcloud--item:hover {
+    color: #36454F;
+  }
